@@ -17,7 +17,7 @@ Sample app with basic settings to start developing an app with unit test include
 
 There is also a Test for the EmailValidator utils file. To run the test follow the same procedure as before, but select EmailValidatorTest class.
 
-# Additional Commments
+# Additional Comments
 
 The main idea behind this repo is to set a clean start for every user that intends to start writing apps with tests that validate functionality through a project lifetime.
 
